@@ -1,0 +1,10 @@
+# requirements.txt
+openai==1.10.0
+azure-identity==1.15.0
+azure-keyvault-secrets==4.7.0
+python-dotenv==1.0.0
+tenacity==8.2.3
+pydantic==2.5.3
+aiohttp==3.9.1
+
+# Setup Python con SDK OpenAI
